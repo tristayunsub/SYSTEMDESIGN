@@ -1,5 +1,9 @@
 https://tech.kakao.com/2016/01/29/opensource-1-s2graph/
 
+https://medium.com/@anilkkurmi/top-20-infoq-presentation-to-prepare-for-system-design-interview-ad218fab80dd
+Top 20 Infoq presentation to prepare for System Design Interview
+
+
 https://www.youtube.com/watch?v=mge4cLqcpxU&t=7s&ab_channel=Hanib
 준비방법
 
