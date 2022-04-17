@@ -6,6 +6,8 @@ abijit mondal
 SYSTEM DESIGN STUDY
 
 
+https://gona.tistory.com/48?category=943120 cs공부 좀더 깊게
+
 https://www.youtube.com/watch?v=mge4cLqcpxU&t=7s&ab_channel=Hanib
 시스템디자인 준비방법
 
