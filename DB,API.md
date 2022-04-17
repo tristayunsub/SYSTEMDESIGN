@@ -5,8 +5,14 @@ https://www.youtube.com/watch?v=mge4cLqcpxU&t=7s&ab_channel=Hanib
 
 graph database?
 
+
+https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR : url shortening
+
+
 https://www.youtube.com/watch?v=VJpfO6KdyWE&ab_channel=Exponent
 
+
+https://www.youtube.com/watch?v=MbjObHmDbZo&ab_channel=Geek%27sLesson
 
 Jamie Pearcey
 11개월 전(수정됨)
