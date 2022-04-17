@@ -4,7 +4,8 @@ https://www.youtube.com/watch?v=mge4cLqcpxU&t=7s&ab_channel=Hanib
 준비방법
 
 graph database?
-
+https://www.youtube.com/watch?v=hnpzNAPiC0E&ab_channel=InfoQ
+scacaling infrastructure
 
 https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR : url shortening
 
