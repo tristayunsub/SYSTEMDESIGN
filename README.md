@@ -4,6 +4,10 @@ https://mecha-mind.medium.com/ml-system-design-eta-prediction-9dc8000fd86b
 
 SYSTEM DESIGN STUDY
 
+
+https://www.youtube.com/watch?v=mge4cLqcpxU&t=7s&ab_channel=Hanib
+시스템디자인 준비방법
+
 https://www.youtube.com/watch?v=B-xdfQv3I1k&ab_channel=DanCroitor amazon 14 leadership principles
 
 https://www.youtube.com/watch?v=sWRH0wy5q6M&list=PLfJSsY_suCKOTYuVlhrcDCE52nW_1sMG2&ab_channel=HollyLee
