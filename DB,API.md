@@ -1,5 +1,8 @@
 https://tech.kakao.com/2016/01/29/opensource-1-s2graph/
 
+https://www.youtube.com/watch?v=mge4cLqcpxU&t=7s&ab_channel=Hanib
+준비방법
+
 graph database?
 
 https://www.youtube.com/watch?v=VJpfO6KdyWE&ab_channel=Exponent
