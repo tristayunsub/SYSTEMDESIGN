@@ -1,1 +1,39 @@
 https://www.youtube.com/watch?v=siqiJAJWUVg&ab_channel=ThinkSoftware
+
+
+https://www.kkoc.org/?p=509
+객체지향 엘리베이터소스?
+C++의 객체지향 기법을 적용하여 엘리베이터 시뮬레이터에 필요한 객체(엘리베이터, 사람, 단추, 건물, 층)를 구현하였고, C++Builder 3.0에서 제공하는 TBevel, TLabel, TEdit, TLabel, TStatusBar, TButton 컴포넌트를 사용하여 인터페이스를 구현하였습니다.
+
+Linked list를 구현하여 사람들을 구현할 있었지만, C++에서 제공하는 STL(Standard Template Library)중 list<..>를 사용하였습니다.
+
+4. 제약사항
+– 엘리베이터 스케줄링
+
+시작시간 : 0초부터 시작.
+
+건물안으로 들어오는 사람들의 수 : 1 ~ 10 까지 랜덤하게 입력
+
+건물안에 총 사람들 수 : 100명
+
+엘리베이터 이동 시간 : 1초
+
+문열고 사람내리는 시간 : 1초
+
+종료 버튼을 누를 때 가지 실행을 계속한다.
+
+– 층버튼
+
+버튼이 누려진 것을 보이기 위해서 엘리베이터가 지나간 진행방향 버튼이 1초 후에 꺼진다
+
+
+https://programmingfbf7290.tistory.com/entry/%EC%BB%A4%EB%A7%A8%EB%93%9CCommand-%ED%8C%A8%ED%84%B4?category=666984 객체지향
+
+https://nocount.tistory.com/141?category=834206
+객체지향의 사실과 오해
+
+
+https://www.youtube.com/watch?v=wN0x9eZLix4&ab_channel=freeCodeCamp.org c++
+
+https://www.youtube.com/watch?v=u99wAoBjDvQ&ab_channel=Questpond
+OOP interview question 
