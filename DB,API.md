@@ -1,5 +1,14 @@
 https://tech.kakao.com/2016/01/29/opensource-1-s2graph/
 
+https://www.youtube.com/watch?v=8rEsuvdL17s&ab_channel=AmazonWebServicesKorea
+dynamo db,elastic cache
+https://alphahackerhan.tistory.com/28?category=757971
+usecase등 공부.
+
+
+https://alphahackerhan.tistory.com/39
+모델링학습
+
 https://medium.com/@anilkkurmi/top-20-infoq-presentation-to-prepare-for-system-design-interview-ad218fab80dd
 Top 20 Infoq presentation to prepare for System Design Interview
 
