@@ -11,6 +11,15 @@ https://gona.tistory.com/48?category=943120 cs공부 좀더 깊게
 https://www.youtube.com/watch?v=mge4cLqcpxU&t=7s&ab_channel=Hanib
 시스템디자인 준비방법
 
+파이썬을 활용한 소프트웨어 아키텍처 견고하고 확장 가능한 애플리케이션 아키텍처 설계
+좋은책.
+  아난드 발라찬드라 필라이
+  
+  tdd를 회문으로? 뭐지이고?
+  
+  https://alonso-delarte.medium.com/palindrome-checker-is-a-better-basic-example-of-test-driven-development-239a01d11fc8
+  
+  회문 검사기는 테스트 주도 개발의 더 나은 기본 예입니다.
 https://www.youtube.com/watch?v=B-xdfQv3I1k&ab_channel=DanCroitor amazon 14 leadership principles
 
 https://www.youtube.com/watch?v=sWRH0wy5q6M&list=PLfJSsY_suCKOTYuVlhrcDCE52nW_1sMG2&ab_channel=HollyLee
