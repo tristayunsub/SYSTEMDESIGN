@@ -43,6 +43,8 @@ Designing Ticketmaster
 
 
 **3. Dynamo: How To Design a Key-Value Store**
+
+
 Dynamo: Introduction
 
 High-level Architecture
@@ -92,7 +94,9 @@ Quiz: Cassandra
 
 Mock Interview: Cassandra
 
-5. Kafka: How to Design a Distributed Messaging System
+***5. Kafka: How to Design a Distributed Messaging System ***
+
+
 Messaging Systems: Introduction
 
 Kafka: Introduction
@@ -148,7 +152,9 @@ Quiz: Chubby
 
 Mock Interview: Chubby
 
-7. GFS: How to Design a Distributed File System
+***7. GFS: How to Design a Distributed File System***
+
+
 Google File System: Introduction
 
 High-level Architecture
