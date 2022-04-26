@@ -246,6 +246,9 @@ Quiz: BigTable
 Mock Interview: BigTable
 
 ***10. System Design Patterns *** 
+=
+매우 중요 
+
 
 Introduction: System Design Patterns
 
