@@ -293,6 +293,8 @@ Introduction: System Design Patterns
 20. Merkle Trees
 
 ***11. Glossary of System Design Basics ***
+
+
 System Design Basics
 
 Key Characteristics of Distributed Systems
