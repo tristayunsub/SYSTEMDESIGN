@@ -1,7 +1,12 @@
+
+![스크린샷(484)](https://user-images.githubusercontent.com/75001605/165228392-fece790a-43df-4700-9ced-521328ca6c7e.png)
+
+
 https://sangminpark.blog/2017/06/21/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-4/
 
 https://velog.io/@jahoy/Design-Data-Intensive-Application-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%A4%EA%B3%84
 데이터 중심 어플리케이션 설계
+
 data intensive application system.
 https://blog.naver.com/PostView.naver?blogId=wpdls6012&logNo=221729382459&categoryNo=146&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=search&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1
 
