@@ -7,6 +7,9 @@ https://blog.naver.com/PostView.naver?blogId=wpdls6012&logNo=221729382459&catego
 
 https://brunch.co.kr/@springboot/359#comment 기술블로그.. 기초적인거 다지기좋을ㄷ듯
 
+https://randomthoughts.tistory.com/entry/Virtual-onsite-interview-%EA%B8%B0%EB%A1%9D?category=785306
+블룸버그 시스템인터뷰면접
+
 consistent hashing.? 이런것들?
 
 
