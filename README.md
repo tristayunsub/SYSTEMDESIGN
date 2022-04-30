@@ -1,5 +1,9 @@
 # SYSTEMDESIGN
 
+전략은 룩셈부르크로가야된다.
+
+sde1.. sde2부터 캐나다갈수있어서 빡세네
+
 https://mecha-mind.medium.com/ml-system-design-eta-prediction-9dc8000fd86b
 abijit mondal
 
