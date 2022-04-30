@@ -8,3 +8,5 @@ https://www.youtube.com/watch?v=N0mqqI87_g4&list=PLm6XThSMgu_GuCfzXGoFhq_5nSHrKZ
 
 
 https://github.com/eileen-code4fun/SystemDesignInterviews
+
+https://velog.io/@jahoy/Design-Data-Intensive-Application-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%A4%EA%B3%84
