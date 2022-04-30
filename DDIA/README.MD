@@ -18,3 +18,6 @@ https://loustler.io/data_eng/basic-analytical-operations-of-olap-part-1/
 https://data-engineer-tech.tistory.com/4?category=847456
 
 주키퍼
+
+
+http://highscalability.com/blog/2022/1/17/designing-tinder.html
