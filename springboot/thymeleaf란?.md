@@ -22,35 +22,50 @@ SSR을 사용하더라도, 자바스크립트를 통해 일부 화면을 동적�
 
 2. natural template
 
+
+
+
 타임리프는 순수 HTML을 최대한 유지하기 대문에, 웹브라우저에서 파일을 직접 열어도 HTML 파일 내용 확인가능.
+
+
 
 (퍼블리셔로부터 파일을 전달 받을때 리뷰하기 유용함)
 
+
 서버를 통해 뷰템플릿을 거치면 동적으로 변경된 결과 확인
 
+
+
 한마디로 타임리프 파일을 열었을때, 동적으로 결과가 렌더링 되지는 않지만. HTML 마크업 결과가 어떻게 구성되는지 바로 확인 가능
+
 
 순수 HTML을 그대로 유지하면서 View Template도 사용할 수 있는 타임리프의 특징을 natural template이라고 한다.
 
 
 **타임리프에서 기본적으로 제공하는 객체**
 
+```
 ${#request}
 ${#response}
 ${#session}
 ${#servletContext}
 ${#locale}
- 
+ ```
+
 
 param: HTTP 요청 쿼리 파라미터 접근
+
 url이 http://localhost:8080/example? age=20 일 때 param.age로 접근 가능
+
 session: HTTP session 접근
+
 @: 스프링 빈 접근
 
 
 
 
 **타임리프 템플릿 레이아웃**
+
 
 공통적으로 사용하는 코드 블록들을 레이아웃에 넘겨 사용
 
