@@ -77,7 +77,6 @@ session: HTTP session 접근
 
 th:replace 기능을 통해 ~{::title}에 title을 넘기고, ~{::link}에 link를 넘김 (th:block이므로 여러 link 넘기기 가능)
 
-출처: https://jaimemin.tistory.com/1835?category=1060172 [꾸준함]
 template/layout/baseExample 레이아웃을 활용하여 template/layout/layoutExample html을 렌더링 하는 예시
 
 간단 예시
