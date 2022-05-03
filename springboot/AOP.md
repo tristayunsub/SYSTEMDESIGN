@@ -213,13 +213,15 @@ public void run(ApplicationArguments args) throws Exception {
 }
 ```
 
+output
+```
 Created an event
 1003
 Published an event
 1000
 Delete an event
 0
-
+```
 
 ![다운로드 (2)](https://user-images.githubusercontent.com/75001605/166568301-327ea97c-0cef-4dff-89fc-8f169d0f528b.png)
 
