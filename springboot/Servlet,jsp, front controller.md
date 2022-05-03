@@ -1,4 +1,46 @@
 
+서블릿은 한마디로 http 스펙을 편리하게 사용하도록 지원하ㅡㄴ것.
+
+urlpatterns 필드의 url 호출할 경우 서블릿 코드 실행
+
+서블릿은 서블릿 컨테이너 내 싱글톤 객체로 존재.
+
+* HttpServletRequest 객체는 attribute 임시 저장, 조회 기능과 함께 세션 관리 기능 제공
+
+
+서블릿 HTTP 요청 시 프로세스
+=
+
+
+![다운로드 (4)](https://user-images.githubusercontent.com/75001605/166587501-6223f9e7-5f37-4321-913c-dcab926ecbdf.png)
+
+WAS가 REQUEST, RESPONSE 객체를 새로 만들어 서블릿 객체 호출
+
+개발자는 REQUEST 객체에서 HTTP 요청 정보를 기반으로 RESPONSE 객체에 응답정보 입력
+
+WAS는 RESPONSE 객체에 담겨있는 내용으로 HTTP 응답정보 생성
+
+
+서블릿 컨테이너?
+
+서블릿을 지원하는 WAS ex) Tomcat Server
+
+서블릿 객체를 생성, 초기화, 호출, 종료하는 생명주기 관리 (https://www.javatpoint.com/life-cycle-of-a-servlet 참고)
+
+동시 요청을 위해 멀티 쓰레드 처리 지원 (개발자가 멀티 쓰레드 관련 코드 신경 쓰지 않아도 됨)
+
+서블릿 객체는 싱글톤으로 관리
+
+요청이 올 때마다 객체 생성하는 것은 비효율적, 최초 로딩 시점에서 서블릿 객체를 미리 생성 후 재활용
+싱글톤으로 관리되기 때문에 ***공유 변수 사용 주의***
+
+서블릿 컨테이너 종료 시 함께 종료
+
+
+출처: https://jaimemin.tistory.com/1792?category=1060172 [꾸준함]
+
+
+
 MVC 패턴 이전
 
 사용자의 요청을 서블릿이나 JSP가 전부다 처리 Controller의 부재.
