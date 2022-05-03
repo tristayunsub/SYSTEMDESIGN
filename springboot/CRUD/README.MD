@@ -1,1 +1,3 @@
-CRUD 프로젝트
+CRUD 게시판
+
+https://bedmil.tistory.com/31
