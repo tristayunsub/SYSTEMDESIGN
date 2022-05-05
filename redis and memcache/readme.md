@@ -42,4 +42,5 @@ https://redis.io/docs/manual/
 
 redis manual 학습
 
+https://blog.naver.com/PostView.naver?blogId=qjawnswkd&logNo=222334452233&parentCategoryNo=&categoryNo=8&viewDate=&isShowPopularPosts=true&from=search
 
