@@ -36,3 +36,27 @@ KAFKA
 아파치 스파크
 
 ![프레임워크-설계4](https://user-images.githubusercontent.com/75001605/167024791-5ea64819-5f3b-4c8c-947a-fb54b1feec88.png)
+
+
+https://kadensungbincho.tistory.com/14?category=910848
+
+
+책1. I Hearts logs by jay kreps
+
+two phase locking
+
+2.
+
+3. Rebuilding Reliable Data Pipelines Through Modern Tools
+
+
+4. Expert Hadoop Administration
+
+5. Architecting Modern Data Platforms
+
+https://kadensungbincho.tistory.com/category/Data
+
+https://www.youtube.com/watch?v=wKe7w_wOzSI&ab_channel=FunctionalTV
+
+i heart logs
+
