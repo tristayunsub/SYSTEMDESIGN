@@ -1,6 +1,9 @@
 DDIA
 
 
+https://jjaesang.github.io/posts/
+이분꺼 보면되는듯
+
 
 
 https://velog.io/@jungbumwoo/DDA-%EC%84%9C%EB%A1%A0-%EB%B0%8F-Part-1-1
