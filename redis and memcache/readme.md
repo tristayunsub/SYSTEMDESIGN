@@ -41,3 +41,5 @@ redis 명령어 뭐 hash set, replication, 등등
 https://redis.io/docs/manual/
 
 redis manual 학습
+
+
