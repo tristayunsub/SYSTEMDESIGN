@@ -6,6 +6,9 @@ https://www.youtube.com/watch?v=o0En_INOb1I&list=PL9mhQYIlKEhfRrJvn-riLnlv2H9inr
 빅데이터 플랫폼 이해
 
 
+https://bcho.tistory.com/1031
+스파크를 할려면 SCALA를 알아야됌
+
 이번 과정에서는 HDFS, MapReduce, YARN 등 하둡의 기본 개념과 분산파일 시스템에 대해 이해하고 Hive와 연계 등 하둡의 활용 방안에 대해 알아봅니다.  
 
 
