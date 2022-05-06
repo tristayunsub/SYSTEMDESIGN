@@ -66,3 +66,12 @@ i heart logs
 
 
 https://dataonair.or.kr/db-tech-reference/d-guide/data-practical/?mod=document&uid=408
+
+
+
+https://fastcampus.co.kr/data_online_spkhdp
+
+https://kadensungbincho.tistory.com/152?category=934757
+
+
+백엔드 기술면접
