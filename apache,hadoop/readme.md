@@ -63,3 +63,6 @@ https://www.youtube.com/watch?v=wKe7w_wOzSI&ab_channel=FunctionalTV
 
 i heart logs
 
+
+
+https://dataonair.or.kr/db-tech-reference/d-guide/data-practical/?mod=document&uid=408
