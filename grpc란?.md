@@ -5,6 +5,12 @@
 링크
 [grpc 깊게배우기2](https://medium.com/naver-cloud-platform/nbp-%EA%B8%B0%EC%88%A0-%EA%B2%BD%ED%97%98-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%9D%90%EB%A6%84-grpc-%EA%B9%8A%EA%B2%8C-%ED%8C%8C%EA%B3%A0%EB%93%A4%EA%B8%B0-2-b01d390a7190)
 
+gRPC 유의점!
+
+Web browser와 grpc 서버와 json 주고받을때 웹브라우저는 grpc랑 커뮤니케이션을 지원하지않음
+
+그래서 프론트엔드단은 grpc 서버앞에 프록시서버하나 놔야됌 그래서 그 프록시 서버로 연결을해
+
 
 저는 현재 앱을 만들기 위해서 공부를 하고 있어요! flutter + golang 으로 grpc 통신으로 작성하려구요.
 
