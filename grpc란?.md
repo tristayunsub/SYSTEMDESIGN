@@ -5,6 +5,7 @@
 링크
 [grpc 깊게배우기2](https://medium.com/naver-cloud-platform/nbp-%EA%B8%B0%EC%88%A0-%EA%B2%BD%ED%97%98-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%9D%90%EB%A6%84-grpc-%EA%B9%8A%EA%B2%8C-%ED%8C%8C%EA%B3%A0%EB%93%A4%EA%B8%B0-2-b01d390a7190)
 
+
 저는 현재 앱을 만들기 위해서 공부를 하고 있어요! flutter + golang 으로 grpc 통신으로 작성하려구요.
 
 gRPC 주로 서버와 서버통신에 사용된다고 합니다. MSA 환경에서 서버와 서버 통신에서 REST를 이용하지 않고 gRPC를 사용하는 사례도 점점 증가하고 있다고 하네요. 기본 REST와 다르게 HTTP/2.0 위에서 동작합니다.
@@ -157,6 +158,7 @@ client 스텁은 함수 호출에 사용된 파라미터의 변환 marshalling, 
 >    > service는 RPC를 통해 서버가 클라이언트에게 제공할 함수의 형태를 정의. 서비스 명과 RPC 메소드명 모두 CAMELCASE 옵션을 주지않으면 단일 요청/응ㅇ답 동작
 >    >  stream 옵션 주면 RPC 구현
    
+   ```
    
   service SearchService {
      rpc Search (SearchRequest) returns (SearchResponse);
@@ -166,17 +168,16 @@ client 스텁은 함수 호출에 사용된 파라미터의 변환 marshalling, 
   service SearchService {
      rpc Search (stream SearchRequest) returns (stream SearchResponse);
      }
+  
+  ```
+   
+   
+> 2.프로토콜 버퍼의 encoding/decoding 원리. grpc의 특 장점과 활용에 대한 설명
+>     > serialize 동작 방식. mesage key-value encoding. , key는 field number뿐만 아니라, 해당 field의 data type을 지시하는 wire type 표현
+>     >보통 1byte에 키필드넘버 5, 와이어타입 3bit . wire 타입은 선언한 data type 별로 지정됌 
      
-   
-   
-   2.프로토콜 버퍼의 encoding/decoding 원리. grpc의 특 장점과 활용에 대한 설명
-   
-    >     > serialize 동작 방식. mesage key-value encoding. , key는 field number뿐만 아니라, 해당 field의 data type을 지시하는 wire type 표현
-
-
-보통 1byte에 키필드넘버 5, 와이어타입 3bit . wire 타입은 선언한 data type 별로 지정됌
-
-wire type에는
+     
+     wire type에는
 
 ![0_tC507UO9Qv1Sj3kk](https://user-images.githubusercontent.com/75001605/167276875-e80cae68-50d2-4cdf-9900-33120bdf9cf4.png)
 
