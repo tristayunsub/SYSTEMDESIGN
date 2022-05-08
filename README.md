@@ -4,6 +4,16 @@
 
 sde1.. sde2부터 캐나다갈수있어서 빡세네
 
+데이터는 중요한가.. 빅테크들한테는 중요함... 나머지는 별로.. 
+
+빅테크에서 SQL을 요구할것임
+
+
+If you think of all big tech companies (Google, Amazon, Netflix, Facebook, Uber, AirBNB, etc.) for all of them - data is at the forefront  (i.e. utilized in the product itself) and is arguably the core reason for their high value and profitability.
+
+By contrast, other companies might only use it to leverage some internal operations like BI, Marketing, etc. 
+
+
 https://mecha-mind.medium.com/ml-system-design-eta-prediction-9dc8000fd86b
 abijit mondal
 
