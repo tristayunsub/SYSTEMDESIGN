@@ -1,6 +1,9 @@
 https://velog.io/@jinmin2216/Redis-1.-Cache%EC%99%80-Redis
 
+https://luran.me/category/Development/Hadoop,%20NoSQL,%20BigData
+
 redis 명령어들
+
 
 
 https://chrisjune-13837.medium.com/redis-vs-memcached-10e796ddd717
