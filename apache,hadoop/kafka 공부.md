@@ -23,3 +23,6 @@ Confluent는 불타버릴 것입니다. CEO는 회사의 단계보다 오래 살
 그것은 시간을 초월한 멋진 과학 프로젝트입니다. 좀비컴퍼니. 데이터브릭스와 함께하세요. 
 
 저는 같은 일만 반복하다 회사를 성장시키지 못한 채 퇴사한 전 Confluent 남자입니다
+
+
+https://goyunji.tistory.com/125?category=970134#recentEntries
