@@ -23,15 +23,15 @@ def makeSpeak(animal:Animal):
   animal.speak()
   ```
   
-  ```
+ ```
   def createAnimal(input_str:str)->Animal:
   if input_str == "cat":
     return Cat()
   elif input_str == "lion":
     return Lion()
-    ```
+ ```
     
-    ```
+```
     input_str = input('choose animal: ')
 
 animal = createAnimal(input_str)
