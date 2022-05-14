@@ -1,3 +1,5 @@
+https://sjo200.tistory.com/56
+
 왜 why 카산드라를 쓰는
 
 
