@@ -11,3 +11,8 @@ https://velog.io/@jinseock95/CourseraData-Engineering-on-Google-Cloud-Platform-s
 GCP
 
 데이터엔지니어.. 키위랩스?
+
+
+https://pearlluck.tistory.com/663?category=965085
+
+데엔..
