@@ -16,3 +16,9 @@ GCP
 https://pearlluck.tistory.com/663?category=965085
 
 데엔..
+
+
+
+https://burning-dba.tistory.com/128?category=983609
+
+etl bigquery등..
