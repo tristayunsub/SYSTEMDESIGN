@@ -26,3 +26,8 @@ https://www.youtube.com/watch?v=UIj-qiAjq44
 https://www.youtube.com/watch?v=l_b96kri9wY&t=1630s&ab_channel=%EC%9B%B9%ED%88%B0FE
 
 DRM 관련 세미나
+
+
+https://meetup.toast.com/posts/131
+
+Adaptive HTTP Streaming 구현
