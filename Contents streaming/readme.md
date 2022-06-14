@@ -20,3 +20,9 @@ https://www.popit.kr/%eb%9d%bc%ec%9d%b4%eb%b8%8c-%eb%b9%84%eb%94%94%ec%98%a4-%ec
 https://www.youtube.com/watch?v=UIj-qiAjq44
 
 널널한개발자
+
+
+
+https://www.youtube.com/watch?v=l_b96kri9wY&t=1630s&ab_channel=%EC%9B%B9%ED%88%B0FE
+
+DRM 관련 세미나
